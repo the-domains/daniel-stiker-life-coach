@@ -11,6 +11,9 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.41796038183383644
-name: Daniel Stiker- Life Coach
+author:
+  name: Daniel Stiker
+  email: dan@danielstiker.me
+name: Life and Organization Coach
 title: Making life and work make sense
 description: '#worklifebalance'
