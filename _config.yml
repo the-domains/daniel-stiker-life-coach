@@ -1,4 +1,4 @@
-typography_spectrum: 0.9624768153298646
+typography_spectrum: 0.5939305978827178
 color:
   brandStrength: 0.3296970676165074
   lightness: 0.6954883069265634
@@ -10,7 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-layout_spectrum: 0.41796038183383644
+layout_spectrum: 0.3407939770258963
 author:
   name: Daniel Stiker
   email: dan@danielstiker.me
