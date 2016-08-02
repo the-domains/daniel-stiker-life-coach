@@ -11,11 +11,11 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://drive.google.com/open?id=0B5EQGznVNY_WWFdKRF9FMllFUkE'
 title: sheep.pillar.pdf
-datePublished: '2016-08-02T20:09:33.464Z'
-dateModified: '2016-08-02T20:09:13.237Z'
+datePublished: '2016-08-02T20:13:38.666Z'
+dateModified: '2016-08-02T20:13:38.504Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-02-sheeppillarpdf.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
